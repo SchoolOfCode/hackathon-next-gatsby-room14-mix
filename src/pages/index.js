@@ -9,7 +9,7 @@ const IndexPage = () => {
         We are room 14 and this is for the week 10 School of Code Hackathon.
       </p>
     </Layout>
-  );
-};
+  )
+}
 
 export default IndexPage;
